@@ -18,21 +18,12 @@
 
 | Category         | Tools & Skills                                                                 |
 |------------------|---------------------------------------------------------------------------------|
-| **Languages**     | Python, SQL, HTML/CSS                                                          |
+| **Languages**     | Python, SQL,                                                           |
 | **Libraries**     | Pandas, NumPy, Matplotlib, Seaborn, Plotly                                     |
 | **Data Analysis** | Excel, Power BI, Tableau, Jupyter Notebook                                     |
 | **Databases**     | MySQL, PostgreSQL                                                              |
 | **Version Control**| Git, GitHub                                                                   |
-| **Other Tools**   | VS Code, Google Colab, Openpyxl, Regex, Pivot Tables, Dashboards              |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" width="47%" />
-</p>
+| **Other Tools**   | VS Code, Google Colab, Pivot Tables, Dashboards              |
 
 ---
 
