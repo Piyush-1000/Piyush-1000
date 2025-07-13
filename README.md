@@ -49,6 +49,7 @@
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/piyush-singhh10)
-- 📧 Email: piyush.eit.21cse93@gmail.com
+- 📧 Email: piyush.wizz@gmail.com
+
 
 
